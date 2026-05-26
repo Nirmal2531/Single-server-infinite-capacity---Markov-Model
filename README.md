@@ -19,6 +19,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
+<img width="887" height="520" alt="image" src="https://github.com/user-attachments/assets/b1e6d976-8ac5-4ce3-a2fa-f2a7f83c5cf9" />
 
 
  
@@ -26,6 +27,9 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
+<img width="696" height="358" alt="image" src="https://github.com/user-attachments/assets/8b5d9a0d-ed88-43d5-8b94-ac3474eac2fc" />
 
 ## Result :
+Thus, the program has been executed successfully and the required parameters have been calculated as per the given
+conditions.
 
